@@ -21,6 +21,7 @@ The following Machine Learning models were trained and evaluated:
 5️⃣ Naive Bayes Classifier
 6️⃣ K Nearest Neighbor Classifier
 7️⃣ XGBoost Classifier
+8️⃣ Voting Classifier
 
 Best Performing Machine Learning Model
 Random Forest Classifier was found to be the best performing Classifier with:
